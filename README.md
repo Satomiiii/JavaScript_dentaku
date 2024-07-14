@@ -1,1 +1,1 @@
-# JavaScript_dentaku
+# JavaScript__dentaku
